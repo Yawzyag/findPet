@@ -1,0 +1,13 @@
+#logo {
+  height: 8vh;
+}
+
+#animal option {
+  text-transform: capitalize;
+}
+
+#pet-img {
+  max-height: 65vh;
+  width: 85%;
+  object-fit: cover;
+}
